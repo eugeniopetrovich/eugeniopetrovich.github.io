@@ -4,7 +4,7 @@
     "image": "",
     "email": "eugenio.petrovich@unito.it",
     "url": "https://www.dfe.unito.it/do/docenti.pl/Alias?eugenio.petrovich#tab-profilo",
-    "summary": "I am a philosopher of science with a deep interest in scientometrics and quantitative studies of science",
+    "summary": "I am a philosopher of science with a strong interest in scientometrics and quantitative studies of science",
     "location": {
       "address": "Palazzo Nuovo, Via Sant'Ottavio, 20, Torino (Italy)",
       "postalCode": "10124",
@@ -43,7 +43,8 @@
     },
     {
       "name": "University of Siena (IT)",
-      "position": "Temporary Lecturer in Quantitative Science Studies",
+      "position": "Lecturer in Quantitative Science Studies",
+      "url" : "https://www.unisi.it/ugov/degreecourse/389284",
       "startDate": "2022-03",
       "endDate": "2022-12",
       "summary": "I taught Quantitative Science Studies at the School of Economics and Management the MA in Statistics."
@@ -51,6 +52,7 @@
     {
       "name": "University of Siena (IT)",
       "position": "Post-doctoral reasearcher",
+      "url": "",
       "startDate": "2018-09",
       "endDate": "2022-09",
       "summary": "I worked with Prof. Alberto Baccini on several research projects in scientometrics, research evaluation, and quantitative history of economics."

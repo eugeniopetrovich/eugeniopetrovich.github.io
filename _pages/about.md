@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am assistant professor in philosophy of science at the University of Turin. 
+I am assistant professor in philosophy of science at the University of Turin.
 
 My main research interests include quantitative studies of science, quantitative methods for the history of philosophy, and science policy and research evaluation. My studies have appeared in *Scientometrics*, *PLOS ONE*, *Synthese*, and *European Journal for Philosophy of Science*, among others. 
 

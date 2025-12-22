@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Here you can find my publications in reversed chronological order. PDFs are available as well.
 nav: true
 nav_order: 2

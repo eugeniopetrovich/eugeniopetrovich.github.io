@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Scientometrics | Quantitative Studies of Philosophy | Science Policy
 
@@ -27,10 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am assistant professor in philosophy of science at the University of Turin.
+I am assistant professor in philosophy of science at the [Department of Philosophy and Education Sciences](https://pes.campusnet.unito.it/do/home.pl) of the [University of Turin](https://www.unito.it/).
 
-My main research interests include quantitative studies of science, quantitative methods for the history of philosophy, and science policy and research evaluation. My studies have appeared in *Scientometrics*, *PLOS ONE*, *Synthese*, and *European Journal for Philosophy of Science*, among others. 
+My main research interests include quantitative studies of science, quantitative studies of philosophy, and science policy and research evaluation. My studies have appeared in *Scientometrics*, *PLOS ONE*, *Synthese*, and the *European Journal for Philosophy of Science*, among others. In [publications](/publications/) you can find a full list of my publications.
 
-Before joining the University of Turin in 2022, I have worked at the Universities of Milan, Siena, and Tilburg.
+Look at [projects](/projects/) to see research projects I am currently working on, such as the SOPHIS database.
+
+Before joining the University of Turin in 2022, I have worked at the Universities of Milan, Siena, and Tilburg. My full CV can be found [here](/cv/).
 
 My institutional page is [here](https://www.dfe.unito.it/do/docenti.pl/Alias?eugenio.petrovich#tab-profilo).

@@ -85,8 +85,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: EP's blog # blog_name will be displayed in your blog page
+blog_description: Brief communications on ongoing works
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -191,6 +191,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/profiles.md
 keep_files:
   - CNAME
   - .nojekyll

@@ -28,14 +28,16 @@
     {
       "name": "University of Turin (IT)",
       "position": "Assistant Professor in Logic and Philosophy of Science (RTD-A)",
+      "location": "Turin, Italy",
       "url": "https://www.dfe.unito.it/do/home.pl",
       "startDate": "2022-12",
-      "endDate": "2025-12",
+      "endDate": "2027-12",
       "summary": "I teach courses on philosophy of science for the BA in Philosophy, formal and empirical methods in philosophy for the MA in Philosophy, and scientometrics for the MA in Language Technologies and Digital Humanities"
     },
     {
       "name": "University of Tilburg (NL)",
       "position": "Post-doctoral reasearcher",
+      "location": "Tilburg, The Netherlands",
       "url": "https://exiledempiricists.wordpress.com/eugenio-petrovich/",
       "startDate": "2022-10",
       "endDate": "2022-12",
@@ -44,6 +46,7 @@
     {
       "name": "University of Siena (IT)",
       "position": "Lecturer in Quantitative Science Studies",
+      "location": "Siena, Italy",
       "url" : "https://www.unisi.it/ugov/degreecourse/389284",
       "startDate": "2022-03",
       "endDate": "2022-12",
@@ -52,6 +55,7 @@
     {
       "name": "University of Siena (IT)",
       "position": "Post-doctoral reasearcher",
+      "location": "Siena, Italy",
       "url": "",
       "startDate": "2018-09",
       "endDate": "2022-09",

@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "Find here research projects I am currently working on.",
+          description: "Find here projects I am currently working on, in research and public engagement.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -444,18 +444,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-first-version-of-the-website-is-online",
+          title: 'First version of the website is online!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-citation-modelling",
+          section: "News",},{id: "projects-star-war-antichi-vs-moderni",
+          title: 'Star War, Antichi vs Moderni',
+          description: "A board game on the Scientific Revolution",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Project_Antichi_Moderni/";
+            },},{id: "projects-citation-modelling",
           title: 'Citation modelling',
           description: "Modelling citations with Agent-Based Models",
           section: "Projects",handler: () => {
@@ -465,6 +462,11 @@ ninja.data = [{
           description: "Investigating diversity in philosophy of science",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project_Div_Phil_Sci/";
+            },},{id: "projects-edhiphy",
+          title: 'EDHIPHY',
+          description: "Enriched Data for the History of Philosophy",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Project_Edhiphy/";
             },},{id: "projects-atlas-of-philosophy-of-science",
           title: 'Atlas of Philosophy of Science',
           description: "Building a data-driven atlas of philosophy of science",

@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Find here research projects I am currently working on.
+description: Find here projects I am currently working on, in research and public engagement.
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [Research, Communication]
 horizontal: false
 ---
 

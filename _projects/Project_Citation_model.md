@@ -5,7 +5,7 @@ description: Modelling citations with Agent-Based Models
 img: assets/img/abm.png
 redirect: /assets/html/ENPOSS_plots.html
 importance: 3
-category: work
+category: Research
 ---
 
 Every project has a beautiful feature showcase page.

@@ -4,7 +4,7 @@ title: Atlas of Philosophy of Science
 description: Building a data-driven atlas of philosophy of science
 img: assets/img/Phil_Sci_Atlas_Cover.png
 importance: 1
-category: work
+category: Research
 ---
 
 Philosophy of science is the branch of philosophy that investigates science and its methods. I am currently realizing an **atlas of philosophy of science** based on a quantitative analysis of publications in the field. The atlas' core is the database **SOPHIS** (**S**ocial **O**bservatory of **Phi**losophy of **S**cience), the first version of which is currently [available](https://zenodo.org/records/17277030) in open-access on Zenodo.
@@ -37,6 +37,9 @@ Find below a map of the *social layer* of contemporary philosophy of science, ba
     width="100%" height="75%"
     style="border: 1px solid #ddd; max-width: 1000px; min-height: 500px">
 </iframe>
+<div class="caption">
+    Co-mention network of most-acknowledged philosophers of science, based on SOPHIS data. 
+</div>
 
 ### Intellectual specialties
 
@@ -48,6 +51,10 @@ Find below a map of the *intellectual layer* of the field, based on bibliographi
     width="100%" height="75%"
     style="border: 1px solid #ddd; max-width: 1000px; min-height: 500px">
 </iframe>
+<div class="caption">
+    Bibliographic coupling network of articles covered in SOPHIS. 
+</div>
+
 
 Specialties can be individuated at different levels of granularity, depending on the resolution of the clustering algorithm. The following alluvial plot shows the relationships between different clusters at different resolutions, from coarse to fine.
 
@@ -56,4 +63,13 @@ Specialties can be individuated at different levels of granularity, depending on
         {% include figure.liquid loading="eager" path="assets/img/Sophis_alluvial.png" title="Sophis_info" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    Philosophy of science specialties at different levels of resolution. 
+</div>
+
+## Related publications
+
+The rationale and technical implementation of SOPHIS are described in the following article (currently under review):
+
+- Eugenio Petrovich, Selene Allevi, Edoardo Fazzini & Lorenzo Gandolfi: 'SOPHIS: An Open-Access Database for Quantitative Studies of Philosophy of Science'
 

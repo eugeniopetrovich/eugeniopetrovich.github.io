@@ -7,9 +7,15 @@ importance: 2
 category: Research
 ---
 
-Several philosophers of science have argued that diversity is epistemically beneficial for science. But is diversity valuable for *philosophy of science* as well? In this project, we investigate how different kinds of diversity (gender, affiliation, discipline) at the level of the team behind a philosophy of science article influence the number of citations the article receives.
+Several philosophers of science in the tradition of feminist philosophy of science and social epistemology have argued that diversity is epistemically beneficial for science, i.e., that diversity is not only a matter of social justice but also a force fostering scientific progress. But is diversity valuable for *philosophy of science* as well? In this project, we investigate how different kinds of diversity (gender, affiliation, discipline) at the level of the team behind a philosophy of science article influence the number of citations the article receives.
 
-This study combines team data from [SOPHIS](/projects/Project_Phil_Sci_Atlas/), the Social Observatory of Philosophy of Science with citation data from [OpenAlex](https://openalex.org/).
+This study combines team data from [SOPHIS](/projects/Project_Phil_Sci_Atlas/), the Social Observatory of Philosophy of Science, with citation data from [OpenAlex](https://openalex.org/).
+
+## Related publications:
+
+- Petrovich, E., Sproloquio, G. (under preparation) 'Does diversity increase impact? Testing the diversity thesis in philosophy of science'
+- Petrovich, E., Sproloquio, G. (submitted) 'Dimensions of Diversity and Their Effects on Citation Impact: Evidence from Philosophy of Science'
+
 
 
 

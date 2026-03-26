@@ -69,7 +69,11 @@ Specialties can be individuated at different levels of granularity, depending on
 
 ## Related publications
 
-The rationale and technical implementation of SOPHIS are described in the following article (currently under review):
+The rationale and technical implementation of SOPHIS are described in the following article (open access):
 
-- Eugenio Petrovich, Selene Allevi, Edoardo Fazzini & Lorenzo Gandolfi: 'SOPHIS: An Open-Access Database for Quantitative Studies of Philosophy of Science'
+- Petrovich, E., Allevi, S., Fazzini, E., & Gandolfi, L. (2026). 'SOPHIS: An open-access database for quantitative studies of contemporary philosophy of science' *Scientometrics*. [https://doi.org/10.1007/s11192-026-05591-4](https://doi.org/10.1007/s11192-026-05591-4)
+
+The SOPHIS databased 1.0 is freely available on Zenodo:
+
+- Petrovich, E., Allevi, S., Gandolfi, L., & Fazzini, E. (2025). SOPHIS (Social Observatory of PHIlosophy of Science) Database (Version 1.0) [Data set]. Zenodo. [https://doi.org/10.5281/ZENODO.17277030](https://doi.org/10.5281/ZENODO.17277030)
 

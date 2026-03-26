@@ -3,7 +3,8 @@ layout: post
 title: UniTO Working Group on Open Science
 date: 2026-01-21 12:00:00
 description: Official appointment
-tags: Open Science
+tags: 
+    - "Open Science"
 categories: misc
 thumbnail: assets/img/Open_Sci.png
 ---

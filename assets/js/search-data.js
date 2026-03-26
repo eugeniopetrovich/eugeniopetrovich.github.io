@@ -51,7 +51,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-unito-working-group-on-open-science",
+        },{id: "post-visiting-professorship-in-bochum",
+        
+          title: "Visiting professorship in Bochum",
+        
+        description: "Next semester, I will be DAAD Guest Professor at the University of Bochum",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/Visiting_Bochum/";
+          
+        },
+      },{id: "post-sophis-paper-out-in-scientometrics",
+        
+          title: "SOPHIS paper out in Scientometrics",
+        
+        description: "New paper&#39;s out!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/SOPHIS_paper/";
+          
+        },
+      },{id: "post-unito-working-group-on-open-science",
         
           title: "UniTO Working Group on Open Science",
         
@@ -73,6 +95,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/EPSA/";
           
         },
+      },{id: "post-workshop-philosophy-of-science-meets-quantitative-studies-of-science",
+        
+          title: "Workshop Philosophy of Science meets Quantitative Studies of Science",
+        
+        description: "International workshop on scientometrics and philosphy of science",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/Workshop/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
@@ -91,6 +124,11 @@ ninja.data = [{
           description: "Modelling citations with Agent-Based Models",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project_Citation_model/";
+            },},{id: "projects-data-cleaning",
+          title: 'Data cleaning',
+          description: "Reflections and code on data cleaning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Project_Data_cleaning/";
             },},{id: "projects-diversity-in-philosophy-of-science",
           title: 'Diversity in Philosophy of Science',
           description: "Investigating diversity in philosophy of science",
@@ -101,6 +139,11 @@ ninja.data = [{
           description: "Enriched Data for the History of Philosophy",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Project_Edhiphy/";
+            },},{id: "projects-interviews",
+          title: 'Interviews',
+          description: "Public engagement and outreach",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Project_Interviews/";
             },},{id: "projects-atlas-of-philosophy-of-science",
           title: 'Atlas of Philosophy of Science',
           description: "Building a data-driven atlas of philosophy of science",

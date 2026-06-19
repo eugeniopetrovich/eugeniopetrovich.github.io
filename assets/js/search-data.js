@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-visiting-professorship-in-bochum",
+        },{id: "post-paper-accepted-at-sti-enid-2026",
+        
+          title: "Paper accepted at STI-ENID 2026",
+        
+        description: "Paper on diversity in philosophy of science accepted at STI-ENID",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/STI_ENID/";
+          
+        },
+      },{id: "post-visiting-professorship-in-bochum",
         
           title: "Visiting professorship in Bochum",
         

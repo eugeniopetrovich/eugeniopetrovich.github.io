@@ -78,7 +78,11 @@ Schedule and dates: From Monday 20 to Friday 24 July, 6 hours per day
 
 **Short description:** Scholars in digital humanities, scientometrics, and philosophy itself are increasingly using quantitative methods to study the structure and dynamics of philosophy as a discipline. This course aims to provide an overview of the main methodologies used in quantitative studies of philosophy, presenting key research in this emerging field and discussing influential case studies. In addition, the course will host invited talks by leading scholars who apply quantitative approaches to areas such as the history of twentieth-century philosophy, integrated history and philosophy of science, and philosophy of science.
 
-List of invited speakers: TBA
+List of invited speakers:
+
+- [Maxim Demin](https://philpeople.org/profiles/maxim-demin), Ruhr-Universität Bochum 
+- [Carlo Debernardi](https://carlodebernardi.github.io/), University of Siena
+- [Max Noichl](https://www.maxnoichl.eu/), Utrecht University
 
 👉 [**Link to course materials**](https://drive.google.com/drive/folders/1shZsQdMjCRwTJdg75KCA6mov_Tt2Lr8y?usp=sharing)
 
